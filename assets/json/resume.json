@@ -9,7 +9,7 @@
     "summary": "PhD candidate in Statistical Science at Indiana University",
     "location": {
       "address": "729 E 3rd St, Room 301",
-      "postalCode": "IN 47405",
+      "postalCode": "47405",
       "city": "Bloomington",
       "countryCode": "US",
       "region": "Indiana"
@@ -17,32 +17,44 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "YueYu96",
+        "url": "https://x.com/YueYu96"
       }
     ]
   },
-  "work": [
+  "full-time job": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Baim Institute for Clinical Research",
+      "position": "SAS Programmer",
+      "url": "https://www.baiminstitute.org/",
+      "location": "Boston, MA, US",
+      "startDate": "2020-11",
+      "endDate": "2021-06",
+      "highlights": ["Supported the continued success and quality of biostatistics clinical research projects",
+        "Performed SAS programming using such techniques as macro language, advanced data manipulation techniques, and statistical procedures (e.g., PROC GLM, PROC FREQ, PROC REPORT)",
+        "Reviewed and provided feedback regarding data management plans and research manuscripts for publication"]
     }
   ],
-  "volunteer": [
+  "selected internships": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Bank of Montreal",
+      "location": "Guangzhou, Guangdong, CN",
+      "position": "Global IT Risk Management Assistant",
+      "url": "https://bmo.com",
+      "startDate": "2018-01",
+      "endDate": "2018-05",
+      "highlights": ["Completed 12 main technology risk governance and supplier risk assessments and data protection projects",
+        "Aligned objectives and bridged communications with Oracle teams to perform internet data analysis using SQL"]
+    },
+    {
+      "organization": "adidas AG",
+      "location": "Beijing, CN",
+      "position": "Business Analytics Assistant",
+      "url": "https://www.adidas-group.com/",
+      "startDate": "2017-07",
+      "endDate": "2017-12",
+      "highlights": ["Tasked with collating, stratifying, and visualizing 20% of North Region sales data in Q3 & Q4 2017",
+        "Optimized and enhanced sales prediction models by leveraging historical data and market research"]
     }
   ],
   "education": [
@@ -50,12 +62,34 @@
       "institution": "Indiana University",
       "location": "Bloomington, IN, US",
       "url": "https://www.iu.edu/",
-      "area": "Statistical Science",
-      "studyType": "PhD",
+      "area": "Statistical Science, with a PhD minor in Computer Science",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2021-08",
       "endDate": "2026-06",
       "gpa": "3.9",
-      "courses": ["Theory of Relativity"]
+      "courses": [""]
+    },
+    {
+      "institution": "University of Michigan",
+      "location": "Ann Arbor, MI, US",
+      "url": "https://www.umich.edu/",
+      "area": "Applied Statistics & Sport Management",
+      "studyType": "Master of Science (Dual Degrees)",
+      "startDate": "2018-09",
+      "endDate": "2020-05",
+      "gpa": "3.7",
+      "courses": [""]
+    },
+    {
+      "institution": "Sun Yat-sen University(中山大学)",
+      "location": "Guangzhou, Guangdong, US",
+      "url": "https://sysu.edu.cn/",
+      "area": "Theoretical and Applied Mechanics, with a minor in Statistics",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2014-08",
+      "endDate": "2018-06",
+      "gpa": "3.4",
+      "courses": [""]
     }
   ],
   "awards": [
@@ -80,7 +114,7 @@
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-thumbtack"
     },
     {
       "name": "Quantum Information",
@@ -136,22 +170,22 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-laptop",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "R",
+        "SQL",
+        "Matlab",
+        "C++",
+        "LaTeX"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -159,32 +193,31 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Beginner",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Statistics and Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Spatial Statistics",
+        "Variagram",
+        "Reinforcement Learning",
+        "Generative Models",
+        "Diffusion Models",
+        "Flow Matching Models",
+        "Sports Analytics"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
