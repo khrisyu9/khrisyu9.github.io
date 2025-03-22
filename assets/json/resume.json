@@ -22,7 +22,7 @@
       }
     ]
   },
-  "full-time job": [
+  "professional experience": [
     {
       "name": "Baim Institute for Clinical Research",
       "position": "SAS Programmer",
@@ -33,9 +33,7 @@
       "highlights": ["Supported the continued success and quality of biostatistics clinical research projects",
         "Performed SAS programming using such techniques as macro language, advanced data manipulation techniques, and statistical procedures (e.g., PROC GLM, PROC FREQ, PROC REPORT)",
         "Reviewed and provided feedback regarding data management plans and research manuscripts for publication"]
-    }
-  ],
-  "selected internships": [
+    },
     {
       "organization": "Bank of Montreal",
       "location": "Guangzhou, Guangdong, CN",
@@ -81,7 +79,7 @@
       "courses": [""]
     },
     {
-      "institution": "Sun Yat-sen University(中山大学)",
+      "institution": "Sun Yat-sen University (中山大学)",
       "location": "Guangzhou, Guangdong, US",
       "url": "https://sysu.edu.cn/",
       "area": "Theoretical and Applied Mechanics, with a minor in Statistics",
