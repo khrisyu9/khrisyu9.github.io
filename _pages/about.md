@@ -7,10 +7,10 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-      <p>Room 301</p>
-    <p>729 E 3rd St</p>
+    <p>Room 301</p>
+    <p>Swain East, 729 E 3rd Street</p>
     <p>Bloomington, IN, US, 47405</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
