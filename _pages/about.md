@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! My name is Yue Yu (余越), a PhD candidate in Statistical Science at Indiana University. 
+Welcome! My name is Yue Yu, a PhD candidate in Statistical Science at Indiana University. 
 
 I have broad research interests in **Machine learning** and **Sports Analytics**. Some of my recent focuses are in 
 **Generative Artificial Intelligence Modeling**, such as **Diffusion and Flow-based Models**, and **Reinforcement Learning**,

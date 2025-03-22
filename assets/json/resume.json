@@ -22,7 +22,7 @@
       }
     ]
   },
-  "professional experience": [
+  "work": [
     {
       "name": "Baim Institute for Clinical Research",
       "position": "SAS Programmer",
@@ -36,7 +36,7 @@
     },
     {
       "organization": "Bank of Montreal",
-      "location": "Guangzhou, Guangdong, CN",
+      "location": "Guangzhou, GD, CN",
       "position": "Global IT Risk Management Assistant",
       "url": "https://bmo.com",
       "startDate": "2018-01",
@@ -65,7 +65,11 @@
       "startDate": "2021-08",
       "endDate": "2026-06",
       "gpa": "3.9",
-      "courses": [""]
+      "courses": ["Advanced Statistical Theory I & II", "Seminar on Statistical Theory",
+        "High-dimensional Statistical Analysis",
+        "Theory of Probability",
+        "Elements of Artificial Intelligence", "Data Mining", "Machine Learning",
+      "Applied Algorithms", "Computer Vision"]
     },
     {
       "institution": "University of Michigan",
@@ -76,18 +80,20 @@
       "startDate": "2018-09",
       "endDate": "2020-05",
       "gpa": "3.7",
-      "courses": [""]
+      "courses": ["Statistical Inference", "Bayesian modeling and computation", "Nonparametric Statistics",
+        "Financial Management for the Sport Industry", "Strategic Management in Sport"]
     },
     {
       "institution": "Sun Yat-sen University (中山大学)",
-      "location": "Guangzhou, Guangdong, US",
+      "location": "Guangzhou, GD, US",
       "url": "https://sysu.edu.cn/",
       "area": "Theoretical and Applied Mechanics, with a minor in Statistics",
       "studyType": "Bachelor of Engineering",
       "startDate": "2014-08",
       "endDate": "2018-06",
       "gpa": "3.4",
-      "courses": [""]
+      "courses": ["Advanced Mathematics 1(Highest Level) I & II", "Linear Algebra", "Computer Algorithmic Language",
+      "Ordinary Differential Equations", "Methods of Mathematical Physics", "Operations Research"]
     }
   ],
   "awards": [
@@ -205,13 +211,13 @@
   ],
   "interests": [
     {
-      "name": "Statistics and Machine Learning",
+      "name": "Applied Statistics and Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Spatial Statistics",
         "Variagram",
         "Reinforcement Learning",
-        "Generative Models",
+        "Generative AI Models",
         "Diffusion Models",
         "Flow Matching Models",
         "Sports Analytics"
