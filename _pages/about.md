@@ -32,6 +32,6 @@ in [Statistical Science at Indiana University](https://stat.indiana.edu/).
 
 I have broad research interests in **Machine learning** and **Sports Analytics**. Some of my recent focuses are in 
 **Generative Artificial Intelligence Modeling**, such as **Diffusion and Flow-based Models**, and **Reinforcement Learning**,
-specifically, **Continuous and Multi-task RL**. 
+specifically, **Continuous-time and Multi-task RL**. 
 
 Feel free to reach out through emails or LinkedIn direct messages if you are interested in potential research collaborations or discussions!
