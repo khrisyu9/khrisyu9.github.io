@@ -380,16 +380,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-a-long-announcement-with-details-placeholder-for-now",
+          title: 'A long announcement with details (placeholder for now)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-have-completed-the-computer-science-phd-minor-requirement-at-luddy-school-of-informatics-computing-and-engineering-in-indiana-university-computer-smile",
+          title: 'I have completed the Computer Science PhD minor requirement at Luddy School of...',
+          description: "",
+          section: "News",},{id: "news-i-have-passed-both-theory-and-data-analysis-qualification-exams-of-the-statistical-science-phd-program-at-department-of-statistics-college-of-arts-and-sciences-in-indiana-university-and-will-advance-to-candidacy-soon-sparkles-white-check-mark",
+          title: 'I have passed both Theory and Data Analysis qualification exams of the Statistical...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
