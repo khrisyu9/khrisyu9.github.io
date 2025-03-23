@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Welcome to my personal website!
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 301</p>
-    <p>Swain East, 729 E 3rd Street</p>
+    <p>Room 301, Swain East</p>
+    <p>729 E 3rd Street</p>
     <p>Bloomington, IN, US, 47405</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,7 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! My name is Yue Yu, a PhD candidate in Statistical Science at Indiana University. 
+My name is Yue Yu, a [PhD candidate](https://stat.indiana.edu/about/graduate-students/yu-yue.html) 
+in [Statistical Science at Indiana University](https://stat.indiana.edu/). 
 
 I have broad research interests in **Machine learning** and **Sports Analytics**. Some of my recent focuses are in 
 **Generative Artificial Intelligence Modeling**, such as **Diffusion and Flow-based Models**, and **Reinforcement Learning**,

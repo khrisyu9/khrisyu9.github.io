@@ -2,11 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I will be teaching STAT-S301 Business Statistics at IUB in SP2026. Below are the course list that I have been TA-ed.
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Indiana University
 
-Organize your courses by years, topics, or universities, however you like!
+- STAT S520-Introduction to Statistics (Fall 2021, Spring 2022, Summer 2023, Summer 2024); 
+- STAT S350-Introduction to Statistics (Fall 2022, Spring 2023, Summer 2023, Summer 2024); 
+- STAT S670-Exploratory Data Analysis (Fall 2023, Spring 2024, Spring 2025); 
+- STAT S625-Nonparametric Statistics (Spring 2024); 
+- STAT S610 Introduction to Statistical Computing (Fall 2024); 
+- STAT S621-Fundamentals of Statistical Methods and Theory I (Fall 2024)
+
+## University of Michigan
+
+- SM313-Sports Analytics (Winter 2020)
