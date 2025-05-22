@@ -5,7 +5,7 @@ title: teaching
 description: I will be teaching STAT-S301 Business Statistics at Indiana University in Spring 2026. 
 Below are the course list that I have been TA-ed.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 ## Indiana University
