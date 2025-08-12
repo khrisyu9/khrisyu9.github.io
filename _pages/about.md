@@ -30,8 +30,8 @@ latest_posts:
 My name is Yue Yu, a [PhD candidate](https://stat.indiana.edu/about/graduate-students/yu-yue.html) 
 in [Statistical Science at Indiana University](https://stat.indiana.edu/). 
 
-I have broad research interests in **Machine learning** and **Sports Analytics**. Some of my recent focuses are in 
-**Generative Artificial Intelligence Modeling**, such as **Diffusion and Flow-based Models**, and **Reinforcement Learning**,
-specifically, **Continuous-time and Multi-task RL**. 
+I have broad research interests in **Machine learning** and **Spatial Statistics**. Some of my recent focuses are in 
+**Generative Artificial Intelligence Modeling**, such as **Diffusion and Flow-based Models**, **Reinforcement Learning**, and **Large Language Models**.
+Specifically, **Continuous-time and Multi-task RL** and **Test Time Inference in LLMs**. 
 
 Feel free to reach out through emails or LinkedIn direct messages if you are interested in potential research collaborations or discussions!
