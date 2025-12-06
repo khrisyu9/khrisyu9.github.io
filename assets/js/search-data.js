@@ -385,14 +385,27 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-have-completed-the-computer-science-phd-minor-requirement-at-luddy-school-of-informatics-computing-and-engineering-in-indiana-university-computer-smile",
-          title: 'I have completed the Computer Science PhD minor requirement at Luddy School of...',
+            },},{id: "news-announcement-1",
+          title: 'Announcement_1',
           description: "",
-          section: "News",},{id: "news-i-have-passed-both-theory-and-data-analysis-qualification-exams-of-the-statistical-science-phd-program-at-department-of-statistics-college-of-arts-and-sciences-in-indiana-university-and-will-advance-to-candidacy-soon-sparkles-white-check-mark",
-          title: 'I have passed both Theory and Data Analysis qualification exams of the Statistical...',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-announcement-3",
+          title: 'Announcement_3',
           description: "",
-          section: "News",},{id: "news-our-paper-sample-and-computationally-efficient-continuous-time-reinforcement-learning-with-general-function-approximation-has-been-accepted-to-the-conference-uncertainty-in-artificial-intelligence-2025-see-you-in-july-at-rio-de-janeiro-brazil-brazil-smiley",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-our-paper-sample-and-computationally-efficient-continuous-time-reinforcement-learning-with-general-function-approximation-has-been-accepted-to-the-conference-uncertainty-in-artificial-intelligence-2025-see-you-in-july-at-rio-de-janeiro-brazil-brazil-smiley",
           title: 'Our paper Sample and Computationally Efficient Continuous-Time Reinforcement Learning with General Function Approximation...',
+          description: "",
+          section: "News",},{id: "news-one-pre-print-instance-dependent-continuous-time-reinforcement-learning-via-maximum-likelihood-estimation-has-been-posted-on-arxiv-relaxed",
+          title: 'One pre-print Instance-Dependent Continuous-Time Reinforcement Learning via Maximum Likelihood Estimation has been posted...',
+          description: "",
+          section: "News",},{id: "news-i-m-excited-to-share-that-i-ve-been-admitted-to-the-m-s-in-computer-science-program-at-indiana-university-one-more-degree-to-pick-up-along-the-ph-d-journey-raising-hand-stuck-out-tongue-winking-eye",
+          title: 'I’m excited to share that I’ve been admitted to the M.S. in Computer...',
+          description: "",
+          section: "News",},{id: "news-one-pre-print-on-the-limits-of-test-time-compute-sequential-reward-filtering-for-better-inference-has-been-posted-on-arxiv-wink",
+          title: 'One pre-print On the Limits of Test-Time Compute: Sequential Reward Filtering for Better...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
