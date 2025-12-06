@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One pre-print *On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference* has been posted on arXiv :wink:
+One pre-print [*On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference*](http://arxiv.org/abs/2512.04558) has been posted on arXiv :wink:

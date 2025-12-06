@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One pre-print *Instance-Dependent Continuous-Time Reinforcement Learning via Maximum Likelihood Estimation* has been posted on arXiv :relaxed:
+One pre-print [*Instance-Dependent Continuous-Time Reinforcement Learning via Maximum Likelihood Estimation*](https://arxiv.org/abs/2508.02103) has been posted on arXiv :relaxed:
