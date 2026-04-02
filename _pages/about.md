@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Welcome to my personal website :wave:
+subtitle: "<a href='#'>Welcome to my personal website :wave:"
 
 profile:
   align: right
