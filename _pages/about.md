@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Welcome to my personal website!
+subtitle: <a href='#'>Welcome to my personal website :wave:
 
 profile:
   align: right
@@ -27,11 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Yue Yu, a [PhD candidate](https://stat.indiana.edu/about/graduate-students/yu-yue.html) 
-in [Statistical Science at Indiana University](https://stat.indiana.edu/). 
+My name is Yue Yu, and I am a [PhD candidate](https://stat.indiana.edu/about/graduate-students/yu-yue.html) in [Statistical Science at Indiana University](https://stat.indiana.edu/). I am fortunate to be jointly advised by [Dr. David Crandall](https://homes.luddy.indiana.edu/djcran/) and [Dr. Chunfeng Huang](https://www.uncg.edu/employees/chunfeng-huang/). I also work closely with [Dr. Dongruo Zhou](https://sites.google.com/view/drzhou) and [Dr. Guanyu Hu](https://sites.google.com/site/nealguanyu/).
 
-I have broad research interests in **Machine learning**, **Reinforcement Learning** and **Spatial Statistics**. Some of my recent focuses are in 
-**Generative Artificial Intelligence Modeling**, such as **Diffusion and Flow-based Models** and **Large Language Models**.
-Specifically, **Continuous-time and Multi-task RL**, **Test Time Inference of LLMs**, and **RL Post-Training of LLMs**. 
+My research broadly spans **Machine Learning**, **Spatial Statistics**, and **Sports Analytics**. My recent work in **Machine Learning** focuses on *computationally efficient* post-training and test-time methods for **generative AI models**.
 
-Feel free to reach out through emails or LinkedIn direct messages if you are interested in potential research collaborations or discussions!
+Some of my past and current projects include:
+
+- **Machine Learning**: *Continuous-Time and Multi-Task Reinforcement Learning*, *Test-Time Inference for LLMs*, *RL Post-Training for LLMs*
+- **Spatial Statistics**: *Deep Kriging on the Sphere*
+- **Sports Analytics**: *Causal Inference for basketball player injury and load management*, *Bayesian copula clustering of player types*
+
+
+Please feel free to reach out by email or LinkedIn message if you are interested in research collaborations or would like to connect for discussion! :fire:

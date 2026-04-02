@@ -7,12 +7,13 @@ nav: true
 nav_order: 3
 ---
 
-I will be teaching **STAT-S301 Business Statistics** at IU in Spring 2026.
 
-Below is the list of courses for which I have served as a Teaching Assistant.
+Below is the list of courses for which I have served as a Teaching Assistant or an Instructor.
 
 ## Indiana University
 :white_circle: :red_circle:
+
+Teaching Assistant :thought_balloon:
 
 - STAT S520-Introduction to Statistics (Fall 2021, Spring 2022, Summer 2023, Summer 2024); 
 - STAT S350-Introduction to Statistics (Fall 2022, Spring 2023, Summer 2023, Summer 2024, Fall 2025); 
@@ -22,7 +23,13 @@ Below is the list of courses for which I have served as a Teaching Assistant.
 - STAT S621-Fundamentals of Statistical Methods and Theory I (Fall 2024);
 - STAT S626-Bayesian Theory and Data Analysis (Fall 2025).
 
+Instructor :speech_balloon:
+
+- STAT S301-Business Statistics (Spring 2026). 
+
 ## University of Michigan
 :part_alternation_mark:
+
+Teaching Assistant :pencil:
 
 - SM313-Sports Analytics (Winter 2020).
