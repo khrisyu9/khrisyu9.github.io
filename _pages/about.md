@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Yue Yu, and I am a [PhD candidate](https://stat.indiana.edu/about/graduate-students/yu-yue.html) in [Statistical Science at Indiana University](https://stat.indiana.edu/). I am fortunate to be jointly advised by [Dr. David Crandall](https://homes.luddy.indiana.edu/djcran/) and [Dr. Chunfeng Huang](https://www.uncg.edu/employees/chunfeng-huang/). I also work closely with [Dr. Dongruo Zhou](https://sites.google.com/view/drzhou) and [Dr. Guanyu Hu](https://sites.google.com/site/nealguanyu/).
+My name is Yue Yu, and I am a [PhD candidate](https://stat.indiana.edu/about/graduate-students/yu-yue.html) in [Statistical Science at Indiana University](https://stat.indiana.edu/). I am fortunate to be jointly advised by [Prof. Chunfeng Huang](https://www.uncg.edu/employees/chunfeng-huang/) and [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/). I also work closely with [Prof. Dongruo Zhou](https://sites.google.com/view/drzhou) and [Prof. Guanyu Hu](https://sites.google.com/site/nealguanyu/).
 
 My research broadly spans **Machine Learning**, **Spatial Statistics**, and **Sports Analytics**. My recent work in **Machine Learning** focuses on *computationally efficient* post-training and test-time methods for **generative AI models**.
 
