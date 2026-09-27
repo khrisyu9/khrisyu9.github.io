@@ -25,7 +25,7 @@ Teaching Assistant :thought_balloon:
 
 Instructor :speech_balloon:
 
-- STAT S301-Business Statistics (Spring 2026). 
+- STAT S301-Business Statistics (Spring 2026, Fall 2026).
 
 ## University of Michigan
 :part_alternation_mark:
