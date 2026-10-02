@@ -394,17 +394,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details-placeholder-for-now",
-          title: 'A long announcement with details (placeholder for now)',
+            },},{id: "news-i-have-completed-the-computer-science-phd-minor-requirement-at-luddy-school-of-informatics-computing-and-engineering-in-indiana-university-computer-smile",
+          title: 'I have completed the Computer Science PhD minor requirement at Luddy School of...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-announcement-1",
-          title: 'Announcement_1',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "news-i-have-passed-both-theory-and-data-analysis-qualification-exams-of-the-statistical-science-phd-program-at-department-of-statistics-college-of-arts-and-sciences-in-indiana-university-and-will-advance-to-candidacy-soon-sparkles-white-check-mark",
+          section: "News",},{id: "news-i-have-passed-both-theory-and-data-analysis-qualification-exams-of-the-statistical-science-phd-program-at-department-of-statistics-college-of-arts-and-sciences-in-indiana-university-and-will-advance-to-candidacy-soon-sparkles-white-check-mark",
           title: 'I have passed both Theory and Data Analysis qualification exams of the Statistical...',
           description: "",
           section: "News",},{id: "news-our-paper-sample-and-computationally-efficient-continuous-time-reinforcement-learning-with-general-function-approximation-has-been-accepted-to-the-conference-uncertainty-in-artificial-intelligence-2025-see-you-in-july-at-rio-de-janeiro-brazil-brazil-smiley",
@@ -422,7 +415,7 @@ ninja.data = [{
           section: "News",},{id: "news-one-pre-print-the-load-management-paradox-correcting-the-healthy-worker-survivor-effect-in-nba-injury-modeling-has-been-posted-on-arxiv-basketball",
           title: 'One pre-print The Load Management Paradox: Correcting the Healthy-Worker Survivor Effect in NBA...',
           description: "",
-          section: "News",},{id: "news-our-papers-on-the-limits-of-test-time-compute-sequential-reward-filtering-for-better-inference-and-instance-dependent-continuous-time-reinforcement-learning-via-maximum-likelihood-estimation-have-been-accepted-to-the-international-conference-of-machine-learning-icml-2026-tada-see-you-in-july-at-seoul-korea-kr-sunglasses",
+          section: "News",},{id: "news-our-papers-on-the-limits-of-test-time-compute-sequential-reward-filtering-for-better-inference-and-instance-dependent-continuous-time-reinforcement-learning-via-maximum-likelihood-estimation-have-been-accepted-to-the-international-conference-on-machine-learning-icml-2026-tada-see-you-in-july-at-seoul-korea-kr-sunglasses",
           title: 'Our papers On the Limits of Test-Time Compute: Sequential Reward Filtering for Better...',
           description: "",
           section: "News",},{id: "news-i-have-obtained-the-m-s-in-computer-science-degree-at-indiana-university-mortar-board-clinking-glasses",
@@ -433,6 +426,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-test-time-scaling-for-diffusion-language-models-with-frequency-aware-remasking-has-been-accepted-to-the-conference-on-neural-information-processing-systems-neurips-2026-tada-see-you-in-december-in-sydney-australia-australia-kangaroo",
           title: 'Our paper Test-Time Scaling for Diffusion Language Models with Frequency-Aware Remasking has been...',
+          description: "",
+          section: "News",},{id: "news-one-pre-print-exploring-more-reasoning-better-stepwise-risk-sensitive-grpo-for-diffusion-language-models-has-been-posted-on-arxiv-book-our-work-has-been-accepted-to-the-nonar-lm-workshop-at-colm-2026-see-you-soon-at-san-francisco-ca-bridge-at-night",
+          title: 'One pre-print Exploring More, Reasoning Better: Stepwise Risk-Sensitive GRPO for Diffusion Language Models...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
