@@ -421,7 +421,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-obtained-the-m-s-in-computer-science-degree-at-indiana-university-mortar-board-clinking-glasses",
           title: 'I have obtained the M.S. in Computer Science degree at Indiana University! :mortar_board:...',
           description: "",
-          section: "News",},{id: "news-i-have-wrapped-up-my-summer-internship-with-the-supply-chain-optimization-technologies-scot-team-at-amazon-it-has-been-an-unforgettable-experience-working-alongside-such-an-amazing-team-and-i-am-deeply-grateful-to-the-colleagues-who-supported-me-throughout-this-wonderful-journey-our-project-paper-has-been-accepted-to-the-genaiecommerce-workshop-at-recsys-2026-banana-saluting-face",
+          section: "News",},{id: "news-i-have-wrapped-up-my-summer-internship-with-the-supply-chain-optimization-technologies-scot-team-at-amazon-it-has-been-an-unforgettable-experience-working-alongside-such-an-amazing-team-and-i-am-deeply-grateful-to-the-colleagues-who-supported-me-throughout-this-wonderful-journey-our-project-paper-domain-adaptive-contrastive-embeddings-for-frugal-skill-routing-in-agentic-e-commerce-evaluation-has-been-accepted-to-the-genaiecommerce-workshop-at-recsys-2026-banana-saluting-face",
           title: 'I have wrapped up my summer internship with the Supply Chain Optimization Technologies...',
           description: "",
           section: "News",},{id: "news-our-paper-test-time-scaling-for-diffusion-language-models-with-frequency-aware-remasking-has-been-accepted-to-the-conference-on-neural-information-processing-systems-neurips-2026-tada-see-you-in-december-in-sydney-australia-australia-kangaroo",
