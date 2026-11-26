@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "<a href='#'>Welcome to my personal website :wave:"
+subtitle: "Welcome to my personal website :wave:"
 
 profile:
   align: right
@@ -27,15 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Yue Yu, a [PhD candidate](https://stat.indiana.edu/about/graduate-students/yu-yue.html) in [Statistical Science at Indiana University](https://stat.indiana.edu/). I am fortunate to be jointly advised by [Prof. Chunfeng Huang](https://sites.google.com/view/chunfenghuang) and [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/). I also work closely with [Prof. Dongruo Zhou](https://sites.google.com/view/drzhou) and [Prof. Guanyu Hu](https://sites.google.com/site/nealguanyu/).
+I'm Yue Yu, a [PhD candidate](https://stat.indiana.edu/about/graduate-students/yu-yue.html) in [Statistical Science at Indiana University](https://stat.indiana.edu/). I am fortunate to be jointly advised by [Prof. Chunfeng Huang](https://sites.google.com/view/chunfenghuang) and [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/) on my dissertation. I have also had the privilege of being advised by [Prof. Dongruo Zhou](https://sites.google.com/view/drzhou) and [Prof. Guanyu Hu](https://sites.google.com/site/nealguanyu/) on other projects I am passionate about. I am deeply grateful to all of them for their guidance and support.
 
-My research broadly spans **Machine Learning**, **Spatial Statistics**, and **Sports Analytics**. My recent work in **Machine Learning** focuses on *computationally efficient* post-training and test-time methods for **generative AI models**.
+My research broadly spans **Artificial Intelligence**, **Spatial Statistics**, and **Sports Analytics**. My recent work in **Artificial Intelligence** focuses on designing *computationally efficient* post-training and test-time methods for **Large Language Models**.
 
 Some of my past and current projects include:
 
-- **Machine Learning**: *Continuous-Time and Multi-Task Reinforcement Learning*, *Test-Time Inference for LLMs*, *RL Post-Training for LLMs*
+- **Artificial Intelligence**: *Continuous-Time and Multi-Task Reinforcement Learning*, *Test-Time Inference for LLMs*, *SFT/OPD/RL Post-Training for LLMs*
 - **Spatial Statistics**: *Deep Kriging on the Sphere*
-- **Sports Analytics**: *Causal Inference for basketball player injury and load management*, *Bayesian copula clustering of player types*
+- **Sports Analytics**: *Causal Inference for Injury and Load Management*, *Bayesian Copula Clustering of Players*, *Operations Research for Roster Construction*
 
 
-Please feel free to reach out by email or LinkedIn message if you are interested in research collaborations or would like to connect for discussion! :fire:
+Please feel free to reach out by [email](mailto:yyu3@iu.edu) or [LinkedIn](https://www.linkedin.com/in/khrisyu) message if you are interested in research collaborations or would like to connect for discussion! :fire:
